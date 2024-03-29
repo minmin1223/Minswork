@@ -1,8 +1,8 @@
-# Label Assignment of Real-time Automatic M-mode Echocardiography Measurement
+# Enhancing M-mode Echocardiography Labeling with Instance Segmentation: A Study on Label Assignment Methods
 
 
 This is based on the implemented code of [RAMEM](https://arxiv.org/pdf/2308.07717.pdf), And  RAMEM is modified based on [Yolact_minimal](https://github.com/feiyuhuahuo/Yolact_minimal/tree/master).
-
+Here is the link of the paper 
 ### dataset - MEIS
 **MEIS** (the M-mode echocardiograms dataset in COCO format) at [link](https://drive.google.com/drive/folders/1Ve3UC9pP-FO5wN5MLB9OiKBAs7xAGkeN?usp=sharing).
 
